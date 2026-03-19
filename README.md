@@ -1,4 +1,4 @@
-#protofollo
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +14,7 @@
         :root {
             --primary-color: #2ecc71; /* Fresh Green Theme */
             --bg-color: #ffffff;
-            --text-color: #2c3e50;
+            --text-color: #2c3e50
             --sub-text: #7f8c8d;
             --card-bg: #f9f9f9;
         }
