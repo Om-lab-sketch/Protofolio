@@ -138,7 +138,7 @@
 <body data-theme="dark">
 
     <nav>
-        <div class="logo">OM DUBEY</div>
+        <div class="logo">OM KUMAR DUBEY</div>
         <ul class="nav-links">
             <li>Skills</li>
             <li>Projects</li>
